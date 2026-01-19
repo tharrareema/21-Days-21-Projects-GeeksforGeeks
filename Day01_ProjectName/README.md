@@ -8,6 +8,15 @@ This project is part of the **GeeksforGeeks – 21 Days, 21 Projects Challenge**
 
 ## 📁 Project Structure
 
+21_days-21_projects/
+│
+├── Datasets/
+│ └── Titanic-Dataset.csv
+│
+├── My_work/
+│ └── Data_Storytelling_Analysing_Survival_on_the_Titanic.ipynb
+│
+└── ydata_profiling_report.html
 
 ---
 
